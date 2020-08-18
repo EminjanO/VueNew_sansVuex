@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "Casual Shoe",
+      "price": "200",
+      "brand": "Nike",
+      "inventoryStatus": true,
+      "id": 1
+    },
+    {
+      "name": "Casual Tshirt",
+      "price": "500",
+      "brand": "Nike",
+      "inventoryStatus": false,
+      "id": 2
+    },
+    {
+      "name": "Tshirt",
+      "price": "49",
+      "brand": "Adidas",
+      "inventoryStatus": true,
+      "id": 3
+    }
+  ]
+}
