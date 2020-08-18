@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my-vue-app
 
 ## Project setup
@@ -22,3 +23,7 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# VueNew_sansVuex
+testProject
+>>>>>>> 4a076fcf1b9321a392af5bbbf201ca25fa097026
