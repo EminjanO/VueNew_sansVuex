@@ -1,0 +1,2 @@
+# VueNew_sansVuex
+testProject
